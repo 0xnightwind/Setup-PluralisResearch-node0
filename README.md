@@ -21,8 +21,7 @@ tmux new -s node0
 chmod +x setup_node.sh && ./setup_node.sh
 ```
 
-**Detach from tmux**
-CTRL B+D
+**Detach from tmux** -> CTRL B+D
 
 **Attach to tmux session**
 ```bash
